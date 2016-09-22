@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/pl/tpacce/chat/client/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/pl/tpacce/chat/data/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/pl/tpacce/chat/data/Properties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/pl/tpacce/chat/server/ConnectionRunnable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/pl/tpacce/chat/server/User.java" charset="UTF-8" />
+  </component>
+</project>
